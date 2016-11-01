@@ -50,9 +50,3 @@ def cftf(src, dst, *tail):
 ##example
 ##if __name__ == '__main__':
 ##    cftf(r'e:\test', r'e:\test2', 'txt')
-
-
-        
-
-
-
